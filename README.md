@@ -1,14 +1,5 @@
-# Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
-# Carbon_Credits_AuctionV2
+1. Upgrade Contract
+2. Deposit fund to Aave
+2. Implement ChainLink Automation and Toucan protocol
+3. Implement zK for verification
+4. Implement DAO with native Governance token 
